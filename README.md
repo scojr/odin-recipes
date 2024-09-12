@@ -1,5 +1,1 @@
-This is my effort at the Recipes project as part of The Odin Project's 
-Foundations curriculum. I'll be creating a basic recipe website with the knowledge
-in HTML I've learned so far, demonstrating a proper use of tags, elements, and
-attributes. I'll also be attempting appropriate Git commit conventions throughout
-the project to become more comfortable with the system.
+This is my attempt at the Recipes project as part of The Odin Project's Foundations curriculum. This is a basic recipe website created in HTML to exhibit the skills I've learned so far, with a demonstration of the proper use of tags, elements, and attributes. I'll also be practicing appropriate Git commit conventions throughout the project to become more comfortable with the system.
