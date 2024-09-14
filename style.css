@@ -1,6 +1,9 @@
 /* style.css */
-
 * {
+    box-sizing: border-box;
+}
+
+body {
     text-align: center;
     line-height: 40px;
     background-color: #eccbd0;
@@ -9,12 +12,25 @@
 
 h1 {
     font-family: "Times New Roman", serif;
+    font-size: 60px;
+    font-style: italic;
+    margin: 30px 30px;
 }
 
 ul,
 a {
     font-family: sans-serif;
-    color: rgb(255, 0, 157);
+    font-size: 30px;
+    color: rgb(0, 17, 255);
     list-style: none;
     display: inline;
+    text-decoration: none;
+}
+
+li {
+    background-color: rgb(143, 150, 255);
+    margin: 20px auto;
+    height: 40px;
+    width: 400px;
+    border-radius: 20px;
 }
