@@ -1,0 +1,20 @@
+/* style.css */
+
+* {
+    text-align: center;
+    line-height: 40px;
+    background-color: #eccbd0;
+    color: rgb(135, 9, 167);
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+}
+
+ul,
+a {
+    font-family: sans-serif;
+    color: rgb(255, 0, 157);
+    list-style: none;
+    display: inline;
+}
